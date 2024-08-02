@@ -2,9 +2,9 @@
 [Project Description Here] 
 
 # Requirement
-- python >= 3.7.0
-- CPU >= 4Core
-- Memory >= 8GB
+- python >= 3.12.4
+- CPU >= 4 Core
+- Memory >= 8 GB
 
 # Installation
 ```bash
