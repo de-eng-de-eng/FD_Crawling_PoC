@@ -1,5 +1,5 @@
 # FD Crawling PoC Project
- 
+[Project Description Here] 
 
 # Requirement
 - python >= 3.7.0
@@ -14,7 +14,8 @@ $ conda create -n project_brca python=3.8
 $ pip install -r requirements.txt
 ```
 
-# Training Code
+# Crawling Code
+## Naver
 
 ```bash
 python train.py -h
@@ -39,7 +40,7 @@ optional arguments:
                         10: resnet101, 11: resnet152, 12: densenet121, 13: densenet161, 14: densenet169, 15: densenet201, 16: inception_v3 (default=0, efficinetnet-b0)
 
 ```
-# Test Code
+## Instagram
 ```bash
 python test.py -h
 usage: test.py [-h] [--folder FOLDER] [--data_path DATA_PATH] [--save_path SAVE_PATH] [--batch_size BATCH_SIZE] [--num_workers NUM_WORKERS] [--gpu_num GPU_NUM] [--model_num MODEL_NUM]
@@ -66,7 +67,7 @@ optional arguments:
 
 
 # Example
-## Step 1. Patch Generation
+## Naver Crawling
 ```bash
 python patch_generator.multi.py --folder 0 \
                                 --base_path /home/Dataset/BRCA \
@@ -74,7 +75,7 @@ python patch_generator.multi.py --folder 0 \
                                 --subject_case ovary 
 ```
 
-## Step 2. Training & Validation
+## Instagram Crawling
 ```bash
 python train.py --folder 0 \
                 --data_path /path/to/patch_data/dir \
@@ -83,13 +84,4 @@ python train.py --folder 0 \
                 --epochs 100 \
                 --gpu_num 0 \
                 --model_num 0
-```
-
-## Step 3. Test
-```bash
-python test.py --folder 0 \
-               --data_path ./data \
-               --save_path ./result_m0_eff-b0 \
-               --gpu_num 0 \
-               --model_num 0
 ```
