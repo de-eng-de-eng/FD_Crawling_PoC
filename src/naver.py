@@ -27,7 +27,6 @@ class crawler():
         App = "Naver Blog"
         data = []
 
-        print("-----네이버 블로그 - 맛집 포스트-----")
         for page in range(1,3): ##1~2페이지까지
             self.chrome_driver.find_element(By.XPATH, '/html/body/ui-view/div/main/div[1]/div/section/div[2]/div[11]/span[{}]/a'.format(page)).click()
             time.sleep(2)

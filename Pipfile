@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+watchdog = "*"
 
 [dev-packages]
 bs4 = "*"
@@ -11,6 +12,7 @@ selenium = "*"
 requests = "*"
 openpyxl = "*"
 pandas = "*"
+streamlit = "*"
 
 [requires]
 python_version = "3.12"

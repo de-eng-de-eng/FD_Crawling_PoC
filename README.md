@@ -14,28 +14,23 @@ $ pipenv install # install library for crawling with Pipfile
 ```
 
 # Crawling Code
-## Naver
-
-```bash
-Instructions for running code
-
-```
-## Instagram
+## Run Crawling ()
 ```bash
 Instructions for running code
 
 ```
 
+## Test Code
+```bash
+$ pipenv shell # Spawns a shell within the virtualenv
+$ (FD_Crawling_PoC) $ python ./test.py # check result csv on data directory
 
-# Example
+```
+
+# Run Application with Streamlit
 ## Naver Crawling
 ```bash
-Example command for run code
-
-```
-
-## Instagram Crawling
-```bash
-Example command for run code
+$ pipenv shell # Spawns a shell within the virtualenv
+$ (FD_Crawling_PoC) $ streamlit run application/app.py # Access URL: http://localhost:8501
 
 ```
