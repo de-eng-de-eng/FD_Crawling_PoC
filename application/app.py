@@ -11,14 +11,17 @@ def main():
 
     dfNaver, dfInsta = load_csv()
     st.write("Running with Streamlit")
-
-    rows = st.columns(2)
-
-    rows[0].markdown("### Naver")
-    rows[0].dataframe(dfNaver)
     
-    rows[1].markdown("### Instagram")
-    rows[1].dataframe(dfInsta)
+    tab1, tab2 = st.tabs(["Naver", "Instagram"])
+
+    tab1.dataframe(
+        dfNaver,
+        column_config={"URL": st.column_config.LinkColumn("URL to website")},
+    )
+
+    tab2.dataframe(dfInsta,
+        column_config={"URL": st.column_config.LinkColumn("URL to website")},
+    )
 
 
 if __name__ == "__main__":
