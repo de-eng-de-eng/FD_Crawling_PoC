@@ -1,0 +1,115 @@
+<iframe id="mainFrame" name="mainFrame" allowfullscreen="true" src="/PostView.naver?blogId=eunizzang73&amp;logNo=223536204084&amp;redirect=Dlog&amp;widgetTypeCall=true&amp;noTrackingCode=true&amp;directAccess=false" scrolling="auto" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame()"></iframe>
+
+<div class="se-component se-placesMap se-l-map_text __se-component" id="SE-aded3d5f-f99d-42a3-8632-d68c352d5d7e">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-placesMap  se-section-align-center se-l-map_text">
+                                <div class="se-module se-module-map-text ">
+                                        <a href="#" target="_blank" class="se-map-info __se_link" onclick="return false;" data-linktype="map" data-linkdata="{&quot;eventTarget&quot; : &quot;placeDesc&quot;, &quot;placeId&quot; : &quot;13110509&quot;, &quot;searchEngine&quot; : &quot;naver&quot;, &quot;searchType&quot; : &quot;s&quot;, &quot;name&quot; : &quot;천이오겹살 합정본점&quot;, &quot;address&quot; : &quot;서울특별시 마포구 양화로7길 12&quot;, &quot;latitude&quot; : &quot;37.551397&quot;, &quot;longitude&quot; : &quot;126.915167&quot;, &quot;tel&quot; : &quot;02-325-2920&quot;, &quot;bookingUrl&quot; : null }">
+                                            <div class="se-map-marker"></div>
+                                        <strong class="se-map-title">천이오겹살 합정본점</strong>
+                                        <p class="se-map-address">서울특별시 마포구 양화로7길 12</p>
+                                    </a>
+                                </div>
+                        
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_map&quot;, &quot;id&quot; :&quot;SE-aded3d5f-f99d-42a3-8632-d68c352d5d7e&quot;, &quot;data&quot; : { &quot;layout&quot;: &quot;map_text&quot;, &quot;searchEngine&quot; : &quot;naver&quot;, &quot;places&quot; : [{&quot;placeId&quot;:&quot;13110509&quot;,&quot;name&quot;:&quot;천이오겹살 합정본점&quot;,&quot;address&quot;:&quot;서울특별시 마포구 양화로7길 12&quot;,&quot;latlng&quot;:{&quot;@ctype&quot;:&quot;position&quot;,&quot;latitude&quot;:37.551397,&quot;longitude&quot;:126.915167},&quot;searchType&quot;:&quot;s&quot;,&quot;tel&quot;:&quot;02-325-2920&quot;,&quot;bookingUrl&quot;:null}] }}"></script>
+                </div>
+
+<div class="se-component-content">
+                        <div class="se-section se-section-placesMap  se-section-align-center se-l-map_text">
+                                <div class="se-module se-module-map-text ">
+                                        <a href="#" target="_blank" class="se-map-info __se_link" onclick="return false;" data-linktype="map" data-linkdata="{&quot;eventTarget&quot; : &quot;placeDesc&quot;, &quot;placeId&quot; : &quot;13110509&quot;, &quot;searchEngine&quot; : &quot;naver&quot;, &quot;searchType&quot; : &quot;s&quot;, &quot;name&quot; : &quot;천이오겹살 합정본점&quot;, &quot;address&quot; : &quot;서울특별시 마포구 양화로7길 12&quot;, &quot;latitude&quot; : &quot;37.551397&quot;, &quot;longitude&quot; : &quot;126.915167&quot;, &quot;tel&quot; : &quot;02-325-2920&quot;, &quot;bookingUrl&quot; : null }">
+                                            <div class="se-map-marker"></div>
+                                        <strong class="se-map-title">천이오겹살 합정본점</strong>
+                                        <p class="se-map-address">서울특별시 마포구 양화로7길 12</p>
+                                    </a>
+                                </div>
+                        
+                        </div>
+                    </div>
+
+<div class="se-component se-placesMap se-l-map_text __se-component" id="SE-aded3d5f-f99d-42a3-8632-d68c352d5d7e">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-placesMap  se-section-align-center se-l-map_text">
+                                <div class="se-module se-module-map-text ">
+                                        <a href="#" target="_blank" class="se-map-info __se_link" onclick="return false;" data-linktype="map" data-linkdata="{&quot;eventTarget&quot; : &quot;placeDesc&quot;, &quot;placeId&quot; : &quot;13110509&quot;, &quot;searchEngine&quot; : &quot;naver&quot;, &quot;searchType&quot; : &quot;s&quot;, &quot;name&quot; : &quot;천이오겹살 합정본점&quot;, &quot;address&quot; : &quot;서울특별시 마포구 양화로7길 12&quot;, &quot;latitude&quot; : &quot;37.551397&quot;, &quot;longitude&quot; : &quot;126.915167&quot;, &quot;tel&quot; : &quot;02-325-2920&quot;, &quot;bookingUrl&quot; : null }">
+                                            <div class="se-map-marker"></div>
+                                        <strong class="se-map-title">천이오겹살 합정본점</strong>
+                                        <p class="se-map-address">서울특별시 마포구 양화로7길 12</p>
+                                    </a>
+                                </div>
+                        
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_map&quot;, &quot;id&quot; :&quot;SE-aded3d5f-f99d-42a3-8632-d68c352d5d7e&quot;, &quot;data&quot; : { &quot;layout&quot;: &quot;map_text&quot;, &quot;searchEngine&quot; : &quot;naver&quot;, &quot;places&quot; : [{&quot;placeId&quot;:&quot;13110509&quot;,&quot;name&quot;:&quot;천이오겹살 합정본점&quot;,&quot;address&quot;:&quot;서울특별시 마포구 양화로7길 12&quot;,&quot;latlng&quot;:{&quot;@ctype&quot;:&quot;position&quot;,&quot;latitude&quot;:37.551397,&quot;longitude&quot;:126.915167},&quot;searchType&quot;:&quot;s&quot;,&quot;tel&quot;:&quot;02-325-2920&quot;,&quot;bookingUrl&quot;:null}] }}"></script>
+                </div>
+
+
+<div class="post-btn post_btn2">
+                            <div class="wrap_postcomment">
+                                
+								<div id="area_sympathy223535887745" class="area_sympathy pcol2">
+									<div class="u_likeit_list_module _reactionModule" data-sid="BLOG" data-did="BLOG" data-cid="gyunghoony_223535887745" data-catgid="post" data-loaded="1" data-facetype="0" style="visibility: visible;">
+										<a href="#" role="button" class="u_likeit_list_btn _button pcol2 _param(223535887745) off" data-type="like" data-log="lik.llike|lik.lunlike" data-ishiddencount="true" aria-pressed="false">
+											<span class="u_ico _icon pcol3"></span>
+											<span class="u_cnt _count" style="display: none;">36</span>
+										</a>
+									</div>
+									<a id="Sympathy223535887745" href="#" role="button" class="btn_arr pcol2 _symList _param(3|1|223535887745|0) _returnFalse">
+										<div class="u_likeit_list_module _reactionModule" data-sid="BLOG" data-did="BLOG" data-cid="gyunghoony_223535887745" data-catgid="post" data-loaded="1" data-facetype="0" style="visibility: visible;">
+											<span class="u_likeit_list_btn _button btn_sympathy pcol2 off" data-type="like" data-ishiddenzerocount="true" aria-pressed="false">
+												<em class="u_txt _label">공감</em>
+												<em class="u_cnt _count">36</em>
+											</span>
+										</div>
+										<i class="aline bar"></i>
+										<i class="bu_arr"></i>
+										<span class="blind">이 글에 공감한 블로거 열고 닫기</span>
+									</a>
+                                    <i class="aline"></i>
+								</div>
+                                
+
+                                
+                                <div class="area_comment pcol2">
+                                    <a href="#" role="button" id="Comi223535887745" class="btn_comment pcol2 _cmtList _param(1|1|223535887745|0|true) _returnFalse">
+                                        <i class="ico"></i> 댓글
+										<em id="commentCount" class="_commentCount">
+											7
+										</em>
+										<em id="comment_zero_label">
+											
+										</em>
+										
+										<i class="aline bar"></i>
+                                        <span class="btn_arr"><i class="bu_arr"></i><span class="blind">이 글에 댓글 단 블로거 열고 닫기</span></span>
+                                    </a>
+                                    <i class="aline"></i><i class="aline3"></i>
+                                </div>
+                                
+                            </div>
+                        <div class="wrap_postedit">
+                                <!-- 소셜플러그인 -->
+							
+								<div id="spiLayer1" class="naver-splugin" data-style="standard-v1-basic" data-url="https://blog.naver.com/gyunghoony/223535887745" data-oninitialize="splugin_oninitialize(1);" data-me-display="off" data-likeserviceid="BLOG" data-likecontentsid="gyunghoony_223535887745" data-canonical-url="https://blog.naver.com/gyunghoony/223535887745" data-logdomain="https://proxy.blog.naver.com/spi/v1/api/shareLog" splugin-id="4714275351"><div class="spi_wrap">	<div class="spi_default">   	<div class="_spi_lst spi_list">		<a href="#" class="_spi_blog spi_btn_blog" target="_blank"><span class="spi_blind">블로그 보내기</span></a><a href="#" class="_spi_cafe spi_btn_cafe" target="_blank"><span class="spi_blind">카페 보내기</span></a><a href="#" class="_spi_keep spi_btn_keep" target="_blank"><span class="spi_blind">Keep 보내기</span></a><a href="#" class="_spi_memo spi_btn_memo" target="_blank"><span class="spi_blind">메모 보내기</span></a>	<a href="#" class="_spi_release_cont _spi_release _spi_release_btn spi_btn_more" target="_blank" data-button="release">		<span class="_spi_release spi_blind">기타 보내기 펼치기</span>	</a>   	</div>	</div></div><div id="naver-splugin-wrap" class="_ly_spi spi_default" style="display: block; user-select: text;"></div>    <div class="_spi_ly_keep_ok _spi_keep_ly spi_card spi_message " style="left: -91px; top: 33px;display:none;">   	<div class="spi_message_box type_keep">       <p><strong>Keep에 저장되었습니다.</strong></p> 		<div class="spi_btn_area">       	<a href="#" class="_ly_keep_lnk spi_link" role="button" onclick="return false;">목록보기</a><a href="#" class="_ly_keep_edt spi_link" role="button" onclick="return false;">편집하기</a>		</div>       <a href="#" class="_ly_keep_ok_cls spi_close" role="button"><span class="_spi_keep_ly_cls _spi_cls spim">undefined</span></a>   	</div>    </div><div class="_spi_ly_keep_cnf _spi_keep_cncl_ly spi_card spi_message " style="left: -91px; top: 33px; display:none;">   <div class="spi_popup">       <div class="spi_message_copy">이미 Keep에 저장되었습니다.<br>목록에서 확인하시겠습니까?</div>   </div>   <div class="spi_btn_area">		<a href="#" class="spi_link _spi_cls" role="button">취소</a><a href="#" class="_ly_keep_lnk spi_link" role="button" onclick="return false;">Keep 목록 가기</a>	</div>	<a href="#" class="_ly_keep_cnf_cls spi_close" role="button">		<span class="_ly_keep_cnf_cls">undefined</span>	</a></div>    <div class="_spi_ly_keep_err" style="left: -91px; top: 33px; width: 255px;display:none;">    <p>서버 접속이 원활하지 않습니다.<br> 잠시 후 다시 시도해 주십시오.</p>        <button type="button" class="_ly_keep_err_cls spi_close"><span class="_ly_keep_err_cls"></span><em class="_ly_keep_err_cls">X</em></button>    </div>    <div class="_spi_ly_keep_ros" style="left: -91px; top: 33px; width: 255px;display:none;">    <p>북마크 서비스 점검 중으로,<br>현재 북마크 읽기만 가능하오니<br>이용에 참고해 주시기 바랍니다.</p>        <button type="button" class="_ly_keep_ros_cls spi_close"><span class="_ly_keep_ros_cls"></span><em class="_ly_keep_ros_cls">X</em></button>    </div>	 <div class="_spi_ly_pop" style="display:none;top: -82px; left: 136px; width: 213px">		<p class="_ly_pop">이 __feed_info__ 마음에 드셨다면<br><a href="http://me.naver.com/" target="_blank" class="_ly_pop_lnk _ly_pop spi_impact">네이버 MY구독</a>에서 편하게 받아보세요.</p>		<div class="_ly_pop"></div>    </div></div>
+							
+							
+
+							<!-- //소셜플러그인 -->
+
+                                <div class="area_btn_postedit pcol2">
+                                    <i class="aline"></i>
+									
+										<a href="#" class="pcol2 _printPost _returnFalse _param(223535887745)" target="_blank">인쇄
+											
+										</a>
+									
+									
+									
+									
+									
+                                </div>
+                            </div>
+						</div>
+
