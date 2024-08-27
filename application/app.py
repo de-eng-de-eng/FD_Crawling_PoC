@@ -14,10 +14,10 @@ def load_csv() -> (pd.DataFrame, pd.DataFrame, pd.DataFrame):
 def main():
 
     dfNaverBizInfo, dfNaverBlog, dfInstaFeed = load_csv()
-    st.write("FD Crawling PoC")
-    st.write("@Running with Streamlit")
+    st.write("(가칭) FD인벤토리 정보마당")
+    #st.write("@Running with Streamlit")
     
-    n_biz, n_blog, i_feed = st.tabs(["Naver_BizInfo", "Naver_Blog", "Instagram"])
+    n_biz, n_blog, i_feed = st.tabs(["정보공개서", "네이버", "인스타그램"])
 
     n_biz.dataframe(
         dfNaverBizInfo,
