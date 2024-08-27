@@ -18,7 +18,9 @@ $ pipenv install --dev # install library for crawling with Pipfile Dev Environme
 ```bash
 $ python -v venv fd_crawling_venv
 $ source ./fd_crawling_venv/bin/activate
-$ pip install --no-index --find-index=wheelhouse -r requirements_for_app.txt
+# before run below command, you need to update ./config/requirements_for_app.txt
+# and prepare wheelhouse directory with *whl file
+$ pip install --no-index --find-index=wheelhouse -r ./config/requirements_for_app.txt
 ```
 
 

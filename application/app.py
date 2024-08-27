@@ -1,26 +1,37 @@
 import streamlit as st
 import pandas as pd
 
-def load_csv() -> (pd.DataFrame, pd.DataFrame):
-    naver = pd.read_csv("./data/result_naver.csv")
-    instagram = pd.read_csv("./data/result_instagram.csv")
+def load_csv() -> (pd.DataFrame, pd.DataFrame, pd.DataFrame):
+#    naver = pd.read_csv("./data/result_naver.csv")
+    naver_bizinfo = pd.read_excel("./Naver/Results/FD_Crawling_Business_Info_System_20240826.xlsx")
+    naver_blog = pd.read_excel("./Naver/Results/FD_Crawling_Naver_Blog_20240826.xlsx")
+#    instagram = pd.read_csv("./data/result_instagram.csv")
+    instagram_feed = pd.read_csv("./Instagram/Final/Results/instagram_post_data.csv")
 
-    return naver, instagram
+
+    return naver_bizinfo, naver_blog, instagram_feed
 
 def main():
 
-    dfNaver, dfInsta = load_csv()
-    st.write("Running with Streamlit")
+    dfNaverBizInfo, dfNaverBlog, dfInstaFeed = load_csv()
+    st.write("(가칭) FD인벤토리 정보마당")
+    #st.write("@Running with Streamlit")
     
-    tab1, tab2 = st.tabs(["Naver", "Instagram"])
+    n_biz, n_blog, i_feed = st.tabs(["정보공개서", "네이버", "인스타그램"])
 
-    tab1.dataframe(
-        dfNaver,
+    n_biz.dataframe(
+        dfNaverBizInfo,
         column_config={"URL": st.column_config.LinkColumn("URL to website")},
     )
 
-    tab2.dataframe(dfInsta,
+    n_blog.dataframe(
+        dfNaverBlog,
         column_config={"URL": st.column_config.LinkColumn("URL to website")},
+    )
+
+    i_feed.dataframe(
+        dfInstaFeed,
+        column_config={"post_url": st.column_config.LinkColumn("URL to website")},
     )
 
 
