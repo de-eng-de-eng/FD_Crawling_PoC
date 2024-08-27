@@ -11,8 +11,10 @@
 $ git clone https://github.com/de-eng-de-eng/FD_Crawling_PoC.git
 $ python -m pip install pipenv # install pipenv package
 $ pipenv install # install library for crawling with Pipfile
+or
+$ pipenv install --dev # install library for crawling with Pipfile Dev Environment
 ```
-## Installation on air-gapped env for Streamlit Application
+## Installation on air-gapped env for Streamlit Application with venv
 ```bash
 $ python -v venv fd_crawling_venv
 $ source ./fd_crawling_venv/bin/activate
@@ -24,14 +26,12 @@ $ pip install --no-index --find-index=wheelhouse -r requirements_for_app.txt
 ## Run Crawling ()
 ```bash
 Instructions for running code
-
 ```
 
 ## Test Code
 ```bash
 $ pipenv shell # Spawns a shell within the virtualenv
 $ (FD_Crawling_PoC) $ python ./test.py # check result csv on data directory
-
 ```
 
 # Run Application with Streamlit
