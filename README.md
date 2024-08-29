@@ -16,11 +16,11 @@ $ pipenv install --dev # install library for crawling with Pipfile Dev Environme
 ```
 ## Installation on air-gapped env for Streamlit Application with venv
 ```bash
-$ python -v venv fd_crawling_venv
+$ python -m venv fd_crawling_venv
 $ source ./fd_crawling_venv/bin/activate
 # before run below command, you need to update ./config/requirements_for_app.txt
 # and prepare wheelhouse directory with *whl file
-$ pip install --no-index --find-index=wheelhouse -r ./config/requirements_for_app.txt
+$ pip install --no-index --find-links=wheelhouse -r ./config/requirements_for_app.txt
 ```
 
 
